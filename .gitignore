@@ -9,6 +9,7 @@ tv-script-generation/save*
 .ipynb_checkpoints/
 batch-norm/MNIST_data/
 dcgan-svhn/data/
+semi-supervised/data/
 
 *.pyc
 *.p
