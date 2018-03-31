@@ -7,6 +7,7 @@ face_generation/data/
 tv-script-generation/save*
 .ipynb_checkpoints/
 batch-norm/MNIST_data/
+dcgan-svhn/data/
 
 *.pyc
 *.p
